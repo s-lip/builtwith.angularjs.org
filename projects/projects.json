@@ -1423,7 +1423,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1598,8 +1598,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production", 
-        "Travel", 
+        "Production",
+        "Travel",
         "jQuery",
         "CSS3",
         "PlayFramework",
@@ -1696,18 +1696,18 @@
       ]
     },
     {
-      "name": "Node Tetrinet",  
-      "thumb": "nodetetrinet/thumb.png", 
-      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io", 
-      "url": "http://net.lo2k.net", 
-      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/", 
-      "src": "https://github.com/xblaster/NodeTetrinet", 
+      "name": "Node Tetrinet",
+      "thumb": "nodetetrinet/thumb.png",
+      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io",
+      "url": "http://net.lo2k.net",
+      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/",
+      "src": "https://github.com/xblaster/NodeTetrinet",
       "submitter": "X-Blaster",
       "submissionDate": "2013-04-24",
       "tags": [
-      "Demo", 
-      "Game", 
-      "CSS3D", "WebSocket", 
+      "Demo",
+      "Game",
+      "CSS3D", "WebSocket",
       "jQuery",
       "Open Source"
       ]
@@ -1904,7 +1904,27 @@
         "AngularJS",
         "SASS"
       ]
+    },
+    {
+      "name": "Oppia",
+      "thumb": "oppia/thumb.png",
+      "desc": "Create interactive educational activities that allow others to learn by doing.",
+      "url": "https://www.oppia.org",
+      "info": "http://google-opensource.blogspot.com/2014/02/oppia-tool-for-interactive-learning.html",
+      "src": "https://code.google.com/p/oppia",
+      "submitter": "s-lip",
+      "submissionDate": "2014-03-16",
+      "tags": [
+        "Production",
+        "Education",
+        "HTML5",
+        "CSS3",
+        "AngularJS",
+        "jQuery",
+        "Open Source",
+        "Tests Included",
+        "Python", "Google App Engine"
+      ]
     }
-
   ]
 }
