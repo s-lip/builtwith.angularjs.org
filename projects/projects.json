@@ -1423,7 +1423,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage",
+        "Local Storage", 
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1598,8 +1598,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production",
-        "Travel",
+        "Production", 
+        "Travel", 
         "jQuery",
         "CSS3",
         "PlayFramework",
@@ -1696,18 +1696,18 @@
       ]
     },
     {
-      "name": "Node Tetrinet",
-      "thumb": "nodetetrinet/thumb.png",
-      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io",
-      "url": "http://net.lo2k.net",
-      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/",
-      "src": "https://github.com/xblaster/NodeTetrinet",
+      "name": "Node Tetrinet",  
+      "thumb": "nodetetrinet/thumb.png", 
+      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io", 
+      "url": "http://net.lo2k.net", 
+      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/", 
+      "src": "https://github.com/xblaster/NodeTetrinet", 
       "submitter": "X-Blaster",
       "submissionDate": "2013-04-24",
       "tags": [
-      "Demo",
-      "Game",
-      "CSS3D", "WebSocket",
+      "Demo", 
+      "Game", 
+      "CSS3D", "WebSocket", 
       "jQuery",
       "Open Source"
       ]
